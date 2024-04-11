@@ -49,7 +49,7 @@
 #include <unistd.h>
 
 #ifdef USE_SDL2
-#include <SDL2/SDL.h>
+#include <SDL3/SDL.h>
 #else
 #include <SDL/SDL.h>
 #endif

@@ -16,7 +16,7 @@ ADD_DEFINITIONS("-m64 -pipe -DUSE_SDL2")
 
     set(libndofdev_HEADER_FILES
     	${CMAKE_CURRENT_SOURCE_DIR}/ndofdev_external.h
-    	${CMAKE_CURRENT_SOURCE_DIR}/../stage/packages/include/SDL2/SDL.h
+    	${CMAKE_CURRENT_SOURCE_DIR}/../stage/packages/include/SDL3/SDL.h
     )
 
 if(${CMAKE_SYSTEM_NAME} MATCHES "Windows")
