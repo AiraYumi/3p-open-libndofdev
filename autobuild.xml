@@ -16,11 +16,11 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>907910b4c16ac3c78df8138a21ead89eeb209d9c</string>
+              <string>dc1965de02b0f65f4403a43a4d5038d522446ae4</string>
               <key>hash_algorithm</key>
               <string>sha1</string>
               <key>url</key>
-              <string>https://github.com/AiraYumi/3p-sdl2/releases/download/v3.1.1-preview/SDL2-3.1.1-linux64-8647466701.tar.zst</string>
+              <string>https://github.com/AiraYumi/3p-sdl2/releases/download/v3.1.1-preview-r2/SDL2-3.1.1-linux64-8715020528.tar.zst</string>
             </map>
             <key>name</key>
             <string>linux64</string>
@@ -85,7 +85,7 @@
                 <key>arguments</key>
                 <array>
                   <string>../build-cmd.sh</string>
-</array>
+                </array>
               </map>
               <key>default</key>
               <string>true</string>
@@ -98,7 +98,7 @@
             <string>include/*.h</string>
             <string>LICENSES/libndofdev.txt</string>
             <string>lib/release/*.a</string>
-</array>
+          </array>
           <key>build_directory</key>
           <string>stage</string>
           <key>name</key>
